@@ -1,9 +1,10 @@
 const tintColorLight = "#2f95dc";
 const tintColorDark = "#fff";
-const darkBlue = "#1C396A";
-const blue = "#2B87C8";
-const green = "#20B3B6";
 export default {
+  darkBlue: "#1C396A",
+  blue: "#2B87C8",
+  green: "#20B3B6",
+  lighGreen: "#2B87C850",
   light: {
     text: "#000",
     background: "#fff",
